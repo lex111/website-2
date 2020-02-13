@@ -283,7 +283,7 @@ pull request if it detects that you pushed a new branch to your fork.
     or `closes #<000000>`, where `#<000000>` is the number of an associated issue,
     GitHub will automatically close the issue when the PR merges.
     Leave the **Allow edits from maintainers** checkbox selected. Click
-    **Create pull request**.
+    **Create pull request**. 
 
     Congratulations! Your pull request is available in
     [Pull requests](https://github.com/kubernetes/website/pulls).
